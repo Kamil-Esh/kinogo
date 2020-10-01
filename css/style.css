@@ -34,7 +34,7 @@ header .container {
 
 .logo {
     font-size: 40px;
-    text-transform: uppercase;
+    text-transform: capitalize;
     color: black;
     font-weight: 900;
 }
